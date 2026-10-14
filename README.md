@@ -12,6 +12,7 @@ Each problem has its own folder named after its LeetCode problem number. When I 
 
 | # | Problem | Solutions |
 |---|---|---|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Brute Force](./1/BruteForce.cpp) · [Optimal](./1/Optimal.cpp)|
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](./9/Solution.cpp) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./20/Solution.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Brute Force](./189/BruteForce.cpp) · [Better](./189/Better.cpp) · [Optimal](./189/Optimal.cpp) |

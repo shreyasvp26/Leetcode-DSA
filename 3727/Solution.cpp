@@ -1,3 +1,6 @@
+// Problem: 3727.Maximum Alternating Sum of Squares - https://leetcode.com/problems/maximum-alternating-sum-of-squares/
+
+
 #include <vector>
 using namespace std;
 class Solution {
@@ -20,3 +23,6 @@ public:
     return ans;
   }
 };
+
+// Time Complexity: O(n log n) for sorting the array
+// Space Complexity: O(1) for using constant space

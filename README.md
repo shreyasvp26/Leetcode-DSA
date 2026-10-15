@@ -12,14 +12,17 @@ Each problem has its own folder named after its LeetCode problem number. When I 
 
 | # | Problem | Solutions |
 |---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Brute Force](./1/BruteForce.cpp) · [Optimal](./1/Optimal.cpp)|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Brute Force](./1/BruteForce.cpp) · [Optimal](./1/Optimal.cpp) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](./9/Solution.cpp) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./20/Solution.cpp) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./26/Solution.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Brute Force](./189/BruteForce.cpp) · [Better](./189/Better.cpp) · [Optimal](./189/Optimal.cpp) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](./268/Solution.cpp) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./283/Solution.cpp) |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./349/Solution.cpp) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./485/Solution.cpp) |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Brute Force](./1838/Bruteforce.cpp) · [Optimal](./1838/Optimal.cpp) |
-| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Brute Force](./2913/BruteForce.cpp) [Optimal](./2913/Optimal.cpp) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Brute Force](./2913/BruteForce.cpp) · [Optimal](./2913/Optimal.cpp) |
 | 3723 | [Maximum Sum of Squares](https://leetcode.com/problems/maximum-sum-of-squares/) | [Solution](./3723/Solution.cpp) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Solution](./3727/Solution.cpp) |
 

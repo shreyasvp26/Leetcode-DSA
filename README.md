@@ -16,6 +16,7 @@ Each problem has its own folder named after its LeetCode problem number. When I 
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](./9/Solution.cpp) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./20/Solution.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./26/Solution.cpp) |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution](./169/Solution.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Brute Force](./189/BruteForce.cpp) · [Better](./189/Better.cpp) · [Optimal](./189/Optimal.cpp) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](./268/Solution.cpp) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./283/Solution.cpp) |

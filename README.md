@@ -19,6 +19,7 @@ Each problem has its own folder named after its LeetCode problem number. When I 
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./283/Solution.cpp) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./485/Solution.cpp) |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Brute Force](./1838/Bruteforce.cpp) · [Optimal](./1838/Optimal.cpp) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Brute Force](./2913/BruteForce.cpp) [Optimal](./2913/Optimal.cpp) |
 | 3723 | [Maximum Sum of Squares](https://leetcode.com/problems/maximum-sum-of-squares/) | [Solution](./3723/Solution.cpp) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Solution](./3727/Solution.cpp) |
 

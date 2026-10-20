@@ -1,12 +1,14 @@
 # LeetCode DSA
 
-A personal collection of my LeetCode solutions in C++. I'm using this repository to practise Data Structures and Algorithms, strengthen my problem-solving skills, and prepare for coding interviews.
+A personal collection of my LeetCode solutions in C++ and SQL (MySQL). I'm using this repository to practise Data Structures and Algorithms, strengthen my problem-solving skills, and prepare for coding interviews.
 
 The focus isn't only on getting an accepted solution. I also want to understand why an approach works, analyse its complexity, and compare different ways to solve a problem.
 
 ## 📂 Repository Structure
 
-Each problem has its own folder named after its LeetCode problem number. When I explore multiple approaches, I keep them in separate `.cpp` files.
+Each C++ problem has its own folder named after its LeetCode problem number, with solutions stored in `.cpp` files. When exploring multiple approaches, I keep them in separate files.
+
+SQL solutions are organized under the `SQL/` directory, with a dedicated folder for each problem number and solutions stored in `.sql` files.
 
 ## 🧩 Problems & Solutions
 
@@ -55,9 +57,16 @@ Each problem has its own folder named after its LeetCode problem number. When I 
 | 3723 | [Maximum Sum of Squares](https://leetcode.com/problems/maximum-sum-of-squares/) | [Solution](./3723/Solution.cpp) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Solution](./3727/Solution.cpp) |
 
+## 🗄️ SQL Problems & Solutions
+
+| # | Problem | Solution |
+|---|---|---|
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Solution](./SQL/175/Solution.sql) |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Solution](./SQL/182/Solution.sql) |
+
 ## 🛠️ Tech Stack
 
-- **Language:** C++
+- **Language:** C++, SQL (MySQL)
 - **Practice Platform:** [LeetCode](https://leetcode.com/)
 - **Version Control:** Git and GitHub
 

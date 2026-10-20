@@ -62,6 +62,8 @@ SQL solutions are organized under the `SQL/` directory, with a dedicated folder 
 | # | Problem | Solution |
 |---|---|---|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Solution](./SQL/175/Solution.sql) |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution](./SQL/176/Solution.sql) |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](./SQL/181/Solution.sql) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Solution](./SQL/182/Solution.sql) |
 
 ## 🛠️ Tech Stack
